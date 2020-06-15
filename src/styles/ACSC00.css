@@ -61,6 +61,16 @@
   cursor: pointer;
 }
 
+.MainComponent1 {
+  width: 100%;
+  height: 240px;
+  background-color: red;
+}
+.MainComponent2 {
+  width: 100%;
+  height: 240px;
+  background-color: blue;
+}
 @media (max-width: 1024px) {
   .ACSC00__bg__arrow svg {
     color: #fff;
